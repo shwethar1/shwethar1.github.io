@@ -2,8 +2,11 @@
 Hi!
 My name is Shwetha Radhakrishnan
 Welcome to my creative portfolio!
+This is where I showcase my articles that range from technical innovation to my personal growth journey. 
 
-This website is an adaption of Story by HTML5 UP
+Feel free to check it out
+
+This responsive website is an adaption of Story by HTML5 UP
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
